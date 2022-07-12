@@ -12,7 +12,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-               String meessage= "Default message, prueba ci";
+               String meessage= "Default message, prueba ci editado desde GitHub";
                Assert.assertNotNull(meessage);
 	}
 
